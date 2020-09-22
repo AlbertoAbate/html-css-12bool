@@ -1,0 +1,17 @@
+/* general style */
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin: 30px;
+}
+
+.box {
+  padding: 10px;
+  background-color: pink;
+  text-align: center;
+  border: 1px solid black;
+}
